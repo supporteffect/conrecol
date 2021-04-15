@@ -1,0 +1,200 @@
+Uri: http://www.conrecol.com/
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\index.htm
+Content Type: text/html
+
+Uri: http://www.conrecol.com/css/normalize.css
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\css\normalize.css
+Content Type: text/css
+
+Uri: http://www.conrecol.com/css/jquery.pagepiling.css
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\css\jquery.pagepiling.css
+Content Type: text/css
+
+Uri: http://www.conrecol.com/icomoon/style.css
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\icomoon\style.css
+Content Type: text/css
+
+Uri: http://www.conrecol.com/perfectScrollbar/src/perfect-scrollbar.css
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\perfectScrollbar\src\perfect-scrollbar.css
+Content Type: text/css
+
+Uri: http://www.conrecol.com/css/magnific.css
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\css\magnific.css
+Content Type: text/css
+
+Uri: http://www.conrecol.com/css/main.css
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\css\main.css
+Content Type: text/css
+
+Uri: http://www.conrecol.com/js/vendor/modernizr-2.6.2.min.js
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\js\vendor\modernizr-2.6.2.min.js
+Content Type: application/x-javascript
+
+Uri: http://www.conrecol.com/img/ham.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\ham.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/logo.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\logo.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/ver-video.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\ver-video.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/bg.svg
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\bg.svg
+Content Type: image/svg+xml
+
+Uri: http://www.conrecol.com/img/logo1.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\logo1.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/logo2.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\logo2.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/logo3.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\logo3.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/logo4.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\logo4.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/logo5.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\logo5.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/logo6.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\logo6.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/logo7.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\logo7.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/logo8.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\logo8.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/logo9.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\logo9.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/logo10.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\logo10.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/logo11.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\logo11.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/logo12.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\logo12.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/location-map.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\location-map.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/trabajar.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\trabajar.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/js/vendor/jquery-1.10.2.min.js
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\js\vendor\jquery-1.10.2.min.js
+Content Type: application/x-javascript
+
+Uri: http://www.conrecol.com/js/plugins.js
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\js\plugins.js
+Content Type: application/x-javascript
+
+Uri: http://www.conrecol.com/perfectScrollbar/src/jquery.mousewheel.js
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\perfectScrollbar\src\jquery.mousewheel.js
+Content Type: application/x-javascript
+
+Uri: http://www.conrecol.com/perfectScrollbar/src/perfect-scrollbar.js
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\perfectScrollbar\src\perfect-scrollbar.js
+Content Type: application/x-javascript
+
+Uri: http://www.conrecol.com/js/jquery.pagepiling.min.js
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\js\jquery.pagepiling.min.js
+Content Type: application/x-javascript
+
+Uri: http://www.conrecol.com/js/main.js
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\js\main.js
+Content Type: application/x-javascript
+
+Uri: http://www.conrecol.com/icomoon/fonts/icomoon.eot?49ulyo
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\icomoon\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.conrecol.com/icomoon/fonts/icomoon.ttf?49ulyo
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\icomoon\fonts\icomoon.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://www.conrecol.com/icomoon/fonts/icomoon.woff?49ulyo
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\icomoon\fonts\icomoon.woff
+Content Type: application/font-woff
+
+Uri: http://www.conrecol.com/icomoon/fonts/icomoon.svg?49ulyo
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\icomoon\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: http://www.conrecol.com/img/bg1.jpg
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\bg1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.conrecol.com/img/dot.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\dot.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/section1-bg.jpg
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\section1-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.conrecol.com/img/section1-bg2.jpg
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\section1-bg2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.conrecol.com/img/section1-bg3.jpg
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\section1-bg3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.conrecol.com/img/section2-bg.jpg
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\section2-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.conrecol.com/img/section2-bg2.jpg
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\section2-bg2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.conrecol.com/img/section2-bg3.jpg
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\section2-bg3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.conrecol.com/img/section3-bg.jpg
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\section3-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.conrecol.com/img/section3-bg2.jpg
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\section3-bg2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.conrecol.com/img/section3-bg3.jpg
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\section3-bg3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.conrecol.com/img/tooltip.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\tooltip.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/adjunte.png
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\adjunte.png
+Content Type: image/png
+
+Uri: http://www.conrecol.com/img/loader.svg
+File Name: C:\Users\user\Documents\Zoom\www.conrecol.com\img\loader.svg
+Content Type: image/svg+xml
+
